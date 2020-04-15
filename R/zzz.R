@@ -1,1 +1,1 @@
-OMDB_BASE_URL <- "https://www.omdbapi.com/"
+OMDB_BASE_URL <- "https://private.omdbapi.com/"
